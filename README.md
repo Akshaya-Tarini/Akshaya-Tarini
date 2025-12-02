@@ -2,7 +2,7 @@
 Hii!! I'm Akshaya Tarini
 
 A vibe-driven coder who loves building clean, creative, and expressive front-end experiences. I enjoy experimenting with design, animations, and everything that makes the web feel alive.
-* 🌱 Currently learning UI/UX, Machine Learning, Python, and Full-Stack Development
+* 🌱 Learning UI/UX, Machine Learning, Python, and Full-Stack Development
 * ⚡ Big fan of aesthetic layouts, smooth interactions, and modern web tech
 * 🎨 I like blending creativity with logic to craft memorable user experiences
 * 💡 Always exploring new ideas and leveling up my skills, one project at a time
